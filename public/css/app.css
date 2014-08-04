@@ -1,0 +1,34 @@
+body,header {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+header {
+  display: block;
+  position: relative;
+  background-color: #eef;
+  border-bottom: 1px #99b solid;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+header h1 {
+  display: inline;
+  font-weight: bold;
+}
+footer {
+  margin-left: 30px;
+}
+nav {
+  display: inline;
+}
+.account {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+#content {
+  margin-left: 20px;
+  margin-top: 20px;
+}
